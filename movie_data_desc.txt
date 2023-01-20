@@ -1,0 +1,22 @@
+The file includes the 100 movies from US. It shows the rating of
+the movies and the factor that may affect the rating. The variable 
+explanations are given below.
+
+
+genre: film's genre
+
+gross: gross of the movie (in USD)
+
+cost: cost of the movie (in USD)
+
+no_of_viewer: the number of people who watch the movie
+
+year : the year where the movie was released 
+
+duration: the duration of the movie (in minutes)
+
+outside: the place in the movie is outside of US (yes, no)
+
+netflix: the movie was streamed on netflix (yes,no)
+
+rating: the rating of the movie(1-10)
